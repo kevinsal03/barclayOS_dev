@@ -7,7 +7,7 @@ Releases will be on: [barclayOS repo](https://github.com/kevinsal03/barclayOS "b
 This section is not yet written, just take a look at the Live-Build documentation
 
 ## Builds
-* Initial Build - Just a default live-build config
+* Initial Build - Just a default live-build config [Repo @ Commit](https://github.com/kevinsal03/barclayOS_dev/tree/364544dc9f1e53f70efc866964d634ff96f8bbb4/os)
 
 ## Contributing
 
