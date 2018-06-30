@@ -13,7 +13,8 @@ This section is not yet written, just take a look at the Live-Build documentatio
 * bos-2018-05-14.001-0 - Not saved in git
 * bos-2018-05-27.001-0 - not saved in git
 * bos-2018-05-27.001-1 - not saved in git
-* bos-2018-05-28.001-0 - Current, works properly, has some issues, see bodge.md [Repo @ Commit](https://github.com/kevinsal03/barclayOS_dev/tree/705858b28ba43e6a7e649e665b896c8deb793659)
+* bos-2018-05-28.001-0 - see bodge.md [Repo @ Commit](https://github.com/kevinsal03/barclayOS_dev/tree/705858b28ba43e6a7e649e665b896c8deb793659/os)
+* bos-2018-06-29.001-0 - see bodge.md
 ## Contributing
 
 Create a pull request with any changes you see fit.

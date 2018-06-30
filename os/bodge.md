@@ -1,7 +1,6 @@
 # Stuff Added in During Build w/Interactive shell
 
 * The /etc/os-release and /etc/lsb-release files are added during this time.
-* The custom os_release python module is added at this time too.
 * The theme is added too
 
 The os-release and lsb-release will probably stay this way, other things will be implemented into packages and added on a custom repo shortly.
