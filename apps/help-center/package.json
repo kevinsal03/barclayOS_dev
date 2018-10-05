@@ -8,11 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kevinsal03/barclayOS_dev/help-center"
+    "url": "https://github.com/kevinsal03/barclayOS_dev/apps/help-center"
   },
   "author": "Kevin Salvatorelli",
   "license": "GPL-3.0",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "electron": "^3.0.2"
   }
 }
