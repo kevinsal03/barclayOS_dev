@@ -1,0 +1,18 @@
+{
+  "name": "bos-help-center",
+  "version": "1.0.0",
+  "description": "A help center for BarclayOS",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevinsal03/barclayOS_dev/help-center"
+  },
+  "author": "Kevin Salvatorelli",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "electron": "^3.0.2"
+  }
+}
