@@ -4,7 +4,8 @@
   "description": "A help center for BarclayOS",
   "main": "main.js",
   "scripts": {
-    "test": "electron ."
+    "start": "electron .",
+    "no-gpu": "electron . --disable-gpu"
   },
   "repository": {
     "type": "git",
