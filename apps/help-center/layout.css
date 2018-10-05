@@ -1,0 +1,24 @@
+.wrapper {
+  display: grid;
+  grid-template-areas:
+    'header header header header header header header header header'
+    'sidebar sidebar content content content content content content content';
+    grid-gap: 0px;
+    padding: 0px;
+    user-select: none;
+}
+.header{
+  grid-area: header;
+  background-color: gray;
+  height: 10vh;
+  overflow: hidden;
+}
+.sidebar{
+  grid-area: sidebar;
+  background-color: gray;
+  height: 90vh;
+  overflow: auto;
+}
+.content{
+  grid-area: content;
+}
