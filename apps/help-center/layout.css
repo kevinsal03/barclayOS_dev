@@ -22,3 +22,7 @@
 .content{
   grid-area: content;
 }
+.menuitem{
+  padding: 1vh;
+  outline: 1px solid black;
+}
